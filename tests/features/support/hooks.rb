@@ -1,0 +1,1 @@
+# Depois de cada cenario ele vai tirar uma foto
