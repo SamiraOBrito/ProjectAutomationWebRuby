@@ -89,6 +89,7 @@ PLATFORMS
 DEPENDENCIES
   capybara
   cucumber
+  ffi
   rspec
   selenium-webdriver
   site_prism (= 2.13)
